@@ -1,0 +1,13 @@
+﻿  Across_Universes.cpp
+C:\Users\MrAndred\source\repos\screenSaver_Across_Universes\Across_Universes\Across_Universes\Across_Universes.cpp(62,44): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\MrAndred\source\repos\screenSaver_Across_Universes\Across_Universes\Across_Universes\Across_Universes.cpp(63,45): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\MrAndred\source\repos\screenSaver_Across_Universes\Across_Universes\Across_Universes\Across_Universes.cpp(64,44): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\MrAndred\source\repos\screenSaver_Across_Universes\Across_Universes\Across_Universes\Across_Universes.cpp(80,50): warning C4305: =: усечение из "double" в "float"
+C:\Users\MrAndred\source\repos\screenSaver_Across_Universes\Across_Universes\Across_Universes\Across_Universes.cpp(84,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\MrAndred\source\repos\screenSaver_Across_Universes\Across_Universes\Across_Universes\Across_Universes.cpp(85,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\MrAndred\source\repos\screenSaver_Across_Universes\Across_Universes\Across_Universes\Across_Universes.cpp(87,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\MrAndred\source\repos\screenSaver_Across_Universes\Across_Universes\Across_Universes\Across_Universes.cpp(89,63): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\MrAndred\source\repos\screenSaver_Across_Universes\Across_Universes\Across_Universes\Across_Universes.cpp(89,51): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\MrAndred\source\repos\screenSaver_Across_Universes\Across_Universes\Across_Universes\Across_Universes.cpp(89,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\MrAndred\source\repos\screenSaver_Across_Universes\Across_Universes\Across_Universes\Across_Universes.cpp(89,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Across_Universes.vcxproj -> C:\Users\MrAndred\source\repos\screenSaver_Across_Universes\Across_Universes\Debug\Across_Universes.exe
